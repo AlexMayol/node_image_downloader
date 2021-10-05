@@ -2,7 +2,7 @@ const Fs = require('fs')
 const Path = require('path')
 const Axios = require('axios')
 
-const images = require('./images');
+const { images } = require('./images');
 
 async function downloadImage(url, name) {
     const path = Path.resolve(__dirname, 'images', name)

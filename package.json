@@ -1,0 +1,11 @@
+{
+  "name": "node_image_downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AlexMayol/node_image_downloader.git",
+  "author": "Alejandro Mayol <alexmayolc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
+}
