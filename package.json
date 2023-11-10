@@ -6,6 +6,6 @@
   "author": "Alejandro Mayol <alexmayolc@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.22.0"
+    "axios": "^1.6.0"
   }
 }
